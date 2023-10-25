@@ -28,7 +28,7 @@
     "@babel/runtime": "7.18.9",
     "babel-loader": "8.2.5",
     "copy-webpack-plugin": "^11.0.0",
-    "crypto-js": "3.3.0",
+    "crypto-js": "4.2.0",
     "css-loader": "5.2.0",
     "eslint": "^8.20.0",
     "eslint-config-alloy": "^4.6.2",
